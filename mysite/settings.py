@@ -25,7 +25,7 @@ SECRET_KEY = '^_pxnl-pa=%drz*lzu6ql=jvmc4+b#e=6xh#k)kzn)^w)n+$16'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['shinjni.pythonanywhere.com']
+ALLOWED_HOSTS = ['srishty.pythonanywhere.com']
 
 
 # Application definition
